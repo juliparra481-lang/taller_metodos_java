@@ -4,6 +4,6 @@ public class Ejercicio2 {
 
     }
     public static void  saludarEstudiante (String nombre, int edad){
-        System.out.println("Hola " + nombre + ", tienes " + edad + " años.");
+        System.out.println("Hola " + nombre + " tienes " + edad + " años.");
     }
 }
